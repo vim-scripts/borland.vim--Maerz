@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=112
+
+Contains a single errorformat for all supported compilers, as well as detailed settings/comments for each.
+Supported/tested compilers : 
+- Turbo C 2.0; Borland C 3.1, 5.2; CBuilder 4, 5;
+- Turbo Pascal 7.0; Delphi 5, 6; Kylix 1.0;
+- Free pascal 1.0 (GNU)
